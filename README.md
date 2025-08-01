@@ -1,0 +1,9 @@
+## Hi there 👋 Iam sridharanika
+# ABOUT ME
+
+- 🔭 I’m currently studing on ARTIFICIAL INTELEGENCE in shrimati indhira gandhi college....
+- 🌱 I’m currently learning python...
+- 👯 I’m looking to collaborate on information technology
+- 😄 Pronouns: she
+- ⚡ Fun fact: ...
+
